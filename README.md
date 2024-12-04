@@ -61,11 +61,11 @@ The **FinTrack** is a console-based application designed to help users efficient
 =============================
 1. ➕ Add Income 💵
 2. ➖ Add Expense 💸
-3. 📈 Show Highest Income 🤑
-4. 📉 Show Highest Expense 🛒
-5. 📝 Generate Financial Report 📊
-6. 📋 View Transaction History 📅
-7. 🚪 Exit 🔚
+3. 📈 Show Highest Income 
+4. 📉 Show Highest Expense 
+5. 📝 Generate Financial Report 
+6. 📋 View Transaction History 
+7. 🚪 Exit 
 =============================
 Enter your choice: 
 ```
