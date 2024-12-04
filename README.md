@@ -1,5 +1,5 @@
-# FinTrack
-# 💰 Personal Finance Tracker
+# FinTrack 💰 : Personal Finance Tracker
+
 
 ## 📖 **Overview**
 The **FinTrack** is a console-based application designed to help users efficiently manage their personal finances. The program enables users to record incomes and expenses, analyze their financial habits, and generate reports for better budgeting. 🚀
